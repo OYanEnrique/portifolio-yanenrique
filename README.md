@@ -84,7 +84,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📧 Contato
 
-Yan Enrique - [Adicione seu email ou redes sociais aqui]
+Yan Enrique - [yanenrique.carrd.co](https://yanenrique.carrd.co)
 
 Link do Projeto: [https://github.com/OYanEnrique/projeto-portifolio-html-css](https://github.com/OYanEnrique/projeto-portifolio-html-css)
 
