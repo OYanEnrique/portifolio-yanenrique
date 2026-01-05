@@ -1,0 +1,93 @@
+# 🚀 Portfólio Pessoal
+
+Bem-vindo ao meu portfólio pessoal! Este projeto foi desenvolvido como projeto final do curso de HTML5 e CSS3 do Curso em Vídeo, com o objetivo de apresentar meus projetos, habilidades e experiências profissionais de forma moderna e interativa.
+
+## ✨ Características
+
+- 🎨 **Design Responsivo**: Interface adaptável para todos os dispositivos
+- 🌓 **Tema Claro/Escuro**: Alternância entre temas com persistência usando LocalStorage
+- ✨ **Animações Suaves**: Navegação suave entre seções
+- 🎯 **Interface Moderna**: Design clean e profissional
+- ⚡ **Performance Otimizada**: Carregamento rápido e eficiente
+
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML5**: Estrutura semântica e acessível
+- **CSS3**: Estilização moderna com variáveis CSS
+- **JavaScript**: Interatividade e funcionalidades dinâmicas
+- **Font Awesome**: Ícones vetoriais
+- **LocalStorage**: Persistência de preferências do usuário
+
+## 📁 Estrutura do Projeto
+
+```
+projeto-portifolio/
+├── index.html          # Página principal
+├── estilos/
+│   └── style.css      # Estilos e tema
+├── scripts/
+│   └── script.js      # Funcionalidades JavaScript
+├── imagens/           # Recursos de imagem
+├── README.md          # Documentação do projeto
+└── LICENSE            # Licença do projeto
+```
+
+## 🚀 Como Usar
+
+1. **Clone o repositório**
+   ```bash
+   git clone https://github.com/OYanEnrique/projeto-portifolio-html-css.git
+   ```
+
+2. **Navegue até o diretório**
+   ```bash
+   cd projeto-portifolio-html-css
+   ```
+
+3. **Abra o arquivo `index.html` no seu navegador**
+   - Você pode simplesmente dar duplo clique no arquivo
+   - Ou usar um servidor local como Live Server (extensão do VS Code)
+
+## 💡 Funcionalidades
+
+### Alternância de Tema
+O portfólio possui um botão para alternar entre tema claro e escuro. A preferência do usuário é salva no navegador para futuras visitas.
+
+### Navegação Suave
+Os links de navegação possuem scroll suave, proporcionando uma experiência de usuário mais agradável ao navegar entre as seções.
+
+## 🎨 Personalização
+
+### Cores do Tema
+As cores podem ser facilmente personalizadas editando as variáveis CSS no arquivo `style.css`:
+
+- `--fundo-principal`: Cor de fundo principal
+- `--texto`: Cor do texto principal
+- `--texto-inverso`: Cor do texto invertido
+- `--destaque`: Cor de destaque
+- `--destaque-inverso`: Cor de destaque invertida
+- `--fundo-card`: Cor de fundo dos cards
+
+## 🤝 Contribuindo
+
+Contribuições são bem-vindas! Sinta-se à vontade para:
+
+1. Fazer um Fork do projeto
+2. Criar uma branch para sua feature (`git checkout -b feature/MinhaFeature`)
+3. Commit suas mudanças (`git commit -m 'Adiciona MinhaFeature'`)
+4. Push para a branch (`git push origin feature/MinhaFeature`)
+5. Abrir um Pull Request
+
+## 📝 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## 📧 Contato
+
+Yan Enrique - [Adicione seu email ou redes sociais aqui]
+
+Link do Projeto: [https://github.com/OYanEnrique/projeto-portifolio-html-css](https://github.com/OYanEnrique/projeto-portifolio-html-css)
+
+---
+
+⭐️ Se você gostou deste projeto, considere dar uma estrela no repositório!
