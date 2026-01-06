@@ -1,14 +1,24 @@
 # 🚀 Portfólio Pessoal
 
-Bem-vindo ao meu portfólio pessoal! Este projeto foi desenvolvido como projeto final do curso de HTML5 e CSS3 do Curso em Vídeo, com o objetivo de apresentar meus projetos, habilidades e experiências profissionais de forma moderna e interativa.
+Bem-vindo ao meu portfólio pessoal! Este projeto está sendo desenvolvido como projeto final do curso de HTML5 e CSS3 do Curso em Vídeo, com o objetivo de apresentar meus projetos, habilidades e experiências profissionais de forma moderna e interativa.
 
-## ✨ Características
+> **Status do Projeto**: 🚧 Em desenvolvimento inicial
+
+## ✨ Características Planejadas
 
 - 🎨 **Design Responsivo**: Interface adaptável para todos os dispositivos
 - 🌓 **Tema Claro/Escuro**: Alternância entre temas com persistência usando LocalStorage
 - ✨ **Animações Suaves**: Navegação suave entre seções
 - 🎯 **Interface Moderna**: Design clean e profissional
 - ⚡ **Performance Otimizada**: Carregamento rápido e eficiente
+
+## 🔄 Desenvolvimento Atual
+
+### Versão 0.1.0 (Janeiro 2026)
+- ✅ Estrutura HTML básica implementada
+- ✅ Arquivo CSS com estilos iniciais
+- ✅ Favicon customizado com estilo SVG
+- 🔨 Interface "Em breve" temporária
 
 ## 🛠️ Tecnologias Utilizadas
 
