@@ -18,6 +18,10 @@ Bem-vindo ao meu portfólio pessoal! Este projeto está sendo desenvolvido como 
 - ✅ Estrutura HTML básica implementada
 - ✅ Arquivo CSS com estilos iniciais
 - ✅ Favicon customizado com estilo SVG
+- ✅ Sistema de variáveis CSS para temas
+- ✅ Menu de navegação responsivo implementado
+- ✅ Estilização do header com design moderno
+- ✅ Efeitos hover e transições suaves nos links
 - 🔨 Interface "Em breve" temporária
 
 ## 🛠️ Tecnologias Utilizadas
