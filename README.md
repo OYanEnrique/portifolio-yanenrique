@@ -27,6 +27,11 @@ Bem-vindo ao meu portfólio pessoal! Este projeto está sendo desenvolvido como 
 - ✅ Links para redes sociais (LinkedIn, GitHub, YouTube, Instagram, Site)
 - ✅ Layout responsivo com Grid CSS
 - ✅ Estilização de cards e elementos de perfil
+- ✅ Seção de detalhes com artigos estruturados
+- ✅ Integração de vídeo responsivo do YouTube
+- ✅ Estrutura para Skills, Formação e Projetos
+- ✅ Ícones do Font Awesome nas seções
+- ✅ Container responsivo para vídeo com aspect-ratio
 - 🔨 Interface "Em breve" temporária
 
 ## 🛠️ Tecnologias Utilizadas
