@@ -36,6 +36,8 @@ Bem-vindo ao meu portfólio pessoal! Este projeto está sendo desenvolvido como 
 - ✅ Hard skills implementadas (HTML5, CSS3, Python, Dart, Excel, Figma, Flutter, SQL, R, Scikit-learn, UX/UI Design)
 - ✅ Soft skills implementadas (Comunicação, Trabalho em Equipe, Resolução de Problemas, Adaptabilidade, Pensamento Crítico, Gestão de Tempo, Liderança, Criatividade)
 - ✅ Ícones personalizados para cada skill
+- ✅ Seção de formação acadêmica e certificações profissionais
+- ✅ Certificados profissionais adicionados (EBAC UX/UI Design, Google UX/UI Design via Coursera, Google Análise de Dados, Microsoft Análise de Dados via LinkedIn Learning)
 - 🔨 Interface "Em breve" temporária
 
 ## 🛠️ Tecnologias Utilizadas
@@ -80,6 +82,12 @@ projeto-portifolio/
 
 ### Skills Interativas
 Seção de skills com barras de progresso visuais que exibem proficiência em hard skills (tecnologias como HTML5, CSS3, Python, Dart, etc.) e soft skills (Comunicação, Trabalho em Equipe, Liderança, etc.).
+
+### Formação Acadêmica e Certificações
+Apresentação da formação acadêmica completa e certificações profissionais obtidas, incluindo:
+- Bacharelados (Turismo - UFRRJ, Ciências Econômicas - UFRRJ em andamento)
+- Certificações em UX/UI Design (EBAC, Google/Coursera)
+- Certificações em Análise de Dados (Google, Microsoft/LinkedIn Learning)
 
 ### Alternância de Tema
 O portfólio possui um botão para alternar entre tema claro e escuro. A preferência do usuário é salva no navegador para futuras visitas.
