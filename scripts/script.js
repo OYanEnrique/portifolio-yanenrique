@@ -1,5 +1,6 @@
 const botao = document.getElementById('botao-tema');
 const body = document.body;
+const fotoPerfil = document.querySelector('section#ficha img.foto');
 
 // Persistência do tema
 const temasalvo = localStorage.getItem('tema');
@@ -10,9 +11,11 @@ function temaEscuro(tipo) {
   if (tipo == true) {
     body.classList.add('escuro');
     botao.innerHTML = '<i class="fa-solid fa-sun"></i>';
+    fotoPerfil.src = 'imagens/yan-perfil-dark.png';
   } else {
     body.classList.remove('escuro');
     botao.innerHTML = '<i class="fa-solid fa-moon"></i>';
+    fotoPerfil.src = 'imagens/yan-perfil.png';
   }
 }
 
