@@ -15,6 +15,9 @@ Portfólio profissional de Analista e Cientista de Dados com design moderno, res
 
 ## 🔄 Versão Atual
 
+### Versão 1.0.1 (Janeiro 2026)
+- ✅ Link antigo do portfólio pessoal removido
+
 ### Versão 1.0 (Janeiro 2026)
 - ✅ Layout responsivo completo com sidebar fixa em desktop
 - ✅ Sistema de tema claro/escuro com persistência
