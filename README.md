@@ -24,7 +24,7 @@ Portfólio profissional de Analista e Cientista de Dados com design moderno, res
 - ✅ Troca automática de foto de perfil (yan-perfil.png/yan-perfil-dark.png)
 - ✅ Skills organizadas em 4 categorias:
   - Linguagens de Programação (Python, R, SQL)
-  - Machine Learning & IA (Pandas, Matplotlib, Scikit-learn, PyTorch, TensorFlow, Keras)
+  - Machine Learning & IA (Pandas, Matplotlib, Scikit-learn, NumPy, XGBoost, SciPy)
   - Ferramentas & Frameworks (Excel, Figma, UX/UI Design, Looker Studio, Tableau)
   - Soft Skills (Comunicação, Trabalho em Equipe, Liderança, etc.)
 - ✅ Seção de projetos com 5 projetos de análise de dados:
