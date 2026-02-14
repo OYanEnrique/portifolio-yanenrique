@@ -174,7 +174,7 @@ h3.categoria-skill:first-of-type{
   grid-template-columns: repeat(auto-fill, 100px);
   gap: 30px;
   margin-bottom: 15px;
-  justify-content: start;
+  justify-content: center;
 }
 
 .skill-icon-item{
@@ -311,11 +311,15 @@ footer a:hover{
   }
   #projeto-container .projeto{
     flex-direction: row;
-    justify-content: space-between;
+    gap: 20px;
+  }
+  #projeto-container .projeto-info{
+    flex: 1;
   }
   #projeto-container .foto{
     aspect-ratio: 1/1;
     max-width: 20%;
     max-height: 200px;
+    flex-shrink: 0;
   }
 }
