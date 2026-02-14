@@ -169,39 +169,48 @@ h3.categoria-skill:first-of-type{
   border-radius: 8px;
 }
 
-#skill-container{
+.skill-icon-container{
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: repeat(auto-fill, 100px);
   gap: 30px;
+  margin-bottom: 15px;
+  justify-content: start;
 }
 
-#skill-container .info{
+.skill-icon-item{
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
   align-items: center;
-
+  gap: 10px;
+  width: 100px;
 }
 
-#skill-container .nome{
-  font-weight: bold;
-  color: var(--texto);
+.skill-icon{
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background-color: var(--destaque);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2em;
+  color: var(--texto-inverso);
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-#skill-container .porcent{
-  font-weight: bold;
-  color: var(--destaque);
-}
-
-#skill-container .barra{
-  width: 100%;
-  height: 8px;
-  background-color: var(--fundo-principal);
-  border-radius: 4px;
-}
-#skill-container .progresso{
-  height: 100%;
+.skill-icon:hover{
   background-color: var(--destaque-inverso);
-  border-radius: 4px;
+  transform: scale(1.1);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.skill-nome{
+  font-size: 0.85em;
+  text-align: center;
+  color: var(--texto);
+  font-weight: 500;
+  max-width: 100px;
 }
 
 #formacao-container{
