@@ -205,6 +205,17 @@ h3.categoria-skill:first-of-type{
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
 }
 
+.skill-logo{
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  filter: brightness(0) saturate(100%) invert(100%);
+}
+
+body.escuro .skill-logo{
+  filter: brightness(0) saturate(100%) invert(20%);
+}
+
 .skill-nome{
   font-size: 0.85em;
   text-align: center;
